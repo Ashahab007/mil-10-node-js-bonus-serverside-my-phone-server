@@ -14,7 +14,7 @@ const phones = require("./phones.json"); // this is one kind of export
 
 app.use(cors());
 
-// 1.0 in previously my first server we show the update by running the server every time by manually typing in the url. Now we are going to connect the server side with client side by update dynamically.
+// 1.0 in previously "my first server" file we show the update by running the server every time by manually typing in the url. Now we are going to connect the server side with client side by update dynamically.
 
 app.get("/", (req, res) => {
   res.send("My Phone information is coming soon toon");
