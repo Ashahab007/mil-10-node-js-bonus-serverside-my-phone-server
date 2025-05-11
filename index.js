@@ -25,7 +25,7 @@ app.listen(port, () => {
   console.log(`My Phone server in running in port ${port}`);
 });
 
-// 1.1 install nodemon with existing terminal first cancel by Ctrl + c then  install nodemon according to nodemon documentation npm install -g nodemon then to run type nodemon index.js. Now if u change anything if reload u get the changed data
+// 1.1 install nodemon with existing terminal first cancel by Ctrl + c then  install nodemon according to nodemon documentation "npm install -g nodemon" then to run type "nodemon index.js". Now if u change anything if reload u get the changed data
 
 // 2.1 get all the phones
 
